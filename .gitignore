@@ -89,4 +89,3 @@ crash.*.log
 
 env-secret.yaml
 aws-secret.yaml
-.eslintrc.yml
